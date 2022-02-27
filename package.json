@@ -1,0 +1,19 @@
+{
+  "name": "react-facebook-clone",
+  "version": "1.0.0",
+  "description": "facebook clone built with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marjunmakinano2020/react-facebook-clone.git"
+  },
+  "author": "marjunmakinano2020",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marjunmakinano2020/react-facebook-clone/issues"
+  },
+  "homepage": "https://github.com/marjunmakinano2020/react-facebook-clone#readme"
+}
