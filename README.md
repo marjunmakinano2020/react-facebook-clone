@@ -4,6 +4,7 @@
 
 * React + React HOOKS
 * React context API - Redux pattern
+* React flip move
 * Material UI
 * Flexbox
 * Firebase Firestore database
